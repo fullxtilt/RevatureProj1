@@ -27,10 +27,10 @@ Environment Variables:
 * TRAINING_DB_REIMB     | Database Name
 * TRAINING_DB_HOST      | Database Host IP
 * TRAINING_DB_USERNAME  | Username
-* TRAINING_DB_PASSWORD  | Password
-Port:
-9006
-Existing Accounts (username / pass):
-hunter1 / pass
-hunter2 / pass
-admin1 / pass
+* TRAINING_DB_PASSWORD  | Password  
+Port:  
+9006  
+Existing Accounts (username / pass):  
+* hunter1 / pass
+* hunter2 / pass
+* admin1 / pass
