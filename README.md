@@ -23,13 +23,15 @@ To-do List:
 ```
 git clone https://github.com/fullxtilt/RevatureProj1.git
 ```
+# Setup
 Environment Variables:
 * TRAINING_DB_REIMB     | Database Name
 * TRAINING_DB_HOST      | Database Host IP
 * TRAINING_DB_USERNAME  | Username
 * TRAINING_DB_PASSWORD  | Password  
-Port:  
-9006  
+  
+Port: 9006  
+  
 Existing Accounts (username / pass):  
 * hunter1 / pass
 * hunter2 / pass
