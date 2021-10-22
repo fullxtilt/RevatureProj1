@@ -1,0 +1,269 @@
+2021-10-18 07:34:23 INFO  ReimbursementController:41 - user hunter1 logged in
+2021-10-18 07:34:23 INFO  ReimbursementController:31 - Retrieving Reimbursements
+2021-10-18 07:34:53 INFO  ReimbursementController:78 - Submitting reimbursement authored by: hunter1
+2021-10-18 07:34:53 INFO  ReimbursementController:31 - Retrieving Reimbursements
+2021-10-18 07:35:19 INFO  ReimbursementController:51 - user hunter1has logged out.
+2021-10-18 07:35:24 INFO  ReimbursementController:41 - user admin1 logged in
+2021-10-18 07:35:24 INFO  ReimbursementController:31 - Retrieving Reimbursements
+2021-10-18 07:35:39 INFO  ReimbursementController:56 - Updating reimbursement resolved by: admin1
+2021-10-18 07:35:42 INFO  ReimbursementController:56 - Updating reimbursement resolved by: admin1
+2021-10-18 07:36:13 INFO  ReimbursementController:51 - user admin1has logged out.
+2021-10-18 07:36:18 WARN  ReimbursementController:46 - received invalid username or password, redirecting back to login
+2021-10-18 07:38:01 INFO  ReimbursementController:41 - user admin1 logged in
+2021-10-18 07:38:02 INFO  ReimbursementController:31 - Retrieving Reimbursements
+2021-10-18 07:38:07 INFO  ReimbursementController:51 - user admin1has logged out.
+2021-10-18 07:40:59 INFO  ReimbursementController:41 - user admin1 logged in
+2021-10-18 07:40:59 INFO  ReimbursementController:31 - Retrieving Reimbursements
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:99 - Attempting to select reimbursement with invalid id: -1. Returning null.
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:99 - Attempting to select reimbursement with invalid id: 0. Returning null.
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:85 - Attempting to select reimbursements authored by invalid user id: -1. Returning null.
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:85 - Attempting to select reimbursements authored by invalid user id: 0. Returning null.
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:36 - Illegal amount: -1.0 received. Reimbursement was not created
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:36 - Illegal amount: 0.0 received. Reimbursement was not created
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:41 - Attempting to insert reimbursement with null author. Reimbursement was not created.
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:56 - Attempting to update with INVALID status
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:112 - Attempting to select reimbursement with invalid id: -1. Reimbursement was not created.
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:112 - Attempting to select reimbursement with invalid id: 0. Reimbursement was not created.
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:118 - Attempting to update reimbursement with null resolver. Reimbursement was not created.
+2021-10-18 08:02:05 WARN  ReimbursementServiceImpl:133 - Attempting to update with INVALID status
+2021-10-18 08:58:53 INFO  ReimbursementController:41 - user admin1 logged in
+2021-10-18 08:58:53 INFO  ReimbursementController:31 - Retrieving Reimbursements
+2021-10-18 08:58:55 INFO  ReimbursementController:51 - user admin1has logged out.
+2021-10-18 09:02:12 INFO  ReimbursementController:41 - user hunter1 logged in
+2021-10-18 09:02:12 INFO  ReimbursementController:31 - Retrieving Reimbursements
+2021-10-20 09:03:09 INFO  HomeController:19 - Retrieving all homes
+2021-10-20 09:19:39 INFO  HomeController:19 - Retrieving all homes
+2021-10-20 09:20:11 INFO  HomeController:19 - Retrieving all homes
+2021-10-20 09:21:17 INFO  HomeController:19 - Retrieving all homes
+2021-10-20 09:43:48 INFO  HomeController:23 - Retrieving all homes
+2021-10-20 09:44:15 INFO  HomeController:23 - Retrieving all homes
+2021-10-20 09:45:24 INFO  HomeController:23 - Retrieving all homes
+2021-10-20 10:53:13 INFO  HomeController:61 - Adding home with name: Gnome Home
+2021-10-20 10:53:14 INFO  HomeController:23 - Retrieving all homes
+2021-10-20 11:03:38 INFO  HomeController:23 - Retrieving all homes
+2021-10-20 11:04:03 INFO  HomeController:23 - Retrieving all homes
+2021-10-20 11:07:02 INFO  HomeController:23 - Retrieving all homes
+2021-10-20 11:07:32 INFO  HomeController:23 - Retrieving all homes
+2021-10-20 12:15:59 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:16:04 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:18:39 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:18:41 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:19:59 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:20:01 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:21:29 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:21:31 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:22:31 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:23:42 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:24:05 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:24:08 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:24:12 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:24:20 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:24:28 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:24:50 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:24:55 ERROR HomeController:75 - homeId could not be parsed. Given value: search
+java.lang.NumberFormatException: For input string: "search"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:660)
+	at java.base/java.lang.Integer.parseInt(Integer.java:778)
+	at hshowcase.controller.HomeController.redirectToHomeById(HomeController.java:72)
+	at io.javalin.core.security.SecurityUtil.noopAccessManager(SecurityUtil.kt:20)
+	at io.javalin.http.JavalinServlet.addHandler$lambda-5(JavalinServlet.kt:113)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:44)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service$tryWithExceptionMapper(JavalinServlet.kt:129)
+	at io.javalin.http.JavalinServlet.service$tryBeforeAndEndpointHandlers(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service(JavalinServlet.kt:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:58)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:799)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at io.javalin.jetty.JettyServer$start$wsAndHttpHandler$1.doHandle(JettyServer.kt:52)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:400)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:645)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:392)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:137)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-10-20 12:25:40 ERROR HomeController:75 - homeId could not be parsed. Given value: search
+java.lang.NumberFormatException: For input string: "search"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:660)
+	at java.base/java.lang.Integer.parseInt(Integer.java:778)
+	at hshowcase.controller.HomeController.redirectToHomeById(HomeController.java:72)
+	at io.javalin.core.security.SecurityUtil.noopAccessManager(SecurityUtil.kt:20)
+	at io.javalin.http.JavalinServlet.addHandler$lambda-5(JavalinServlet.kt:113)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:44)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service$tryWithExceptionMapper(JavalinServlet.kt:129)
+	at io.javalin.http.JavalinServlet.service$tryBeforeAndEndpointHandlers(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service(JavalinServlet.kt:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:58)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:799)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at io.javalin.jetty.JettyServer$start$wsAndHttpHandler$1.doHandle(JettyServer.kt:52)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:400)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:645)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:392)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-10-20 12:25:58 ERROR HomeController:75 - homeId could not be parsed. Given value: search
+java.lang.NumberFormatException: For input string: "search"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:660)
+	at java.base/java.lang.Integer.parseInt(Integer.java:778)
+	at hshowcase.controller.HomeController.redirectToHomeById(HomeController.java:72)
+	at io.javalin.core.security.SecurityUtil.noopAccessManager(SecurityUtil.kt:20)
+	at io.javalin.http.JavalinServlet.addHandler$lambda-5(JavalinServlet.kt:113)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:44)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service$tryWithExceptionMapper(JavalinServlet.kt:129)
+	at io.javalin.http.JavalinServlet.service$tryBeforeAndEndpointHandlers(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service(JavalinServlet.kt:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:58)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:799)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at io.javalin.jetty.JettyServer$start$wsAndHttpHandler$1.doHandle(JettyServer.kt:52)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:400)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:645)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:392)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:131)
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:409)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-10-20 12:30:14 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:31:55 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:32:05 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:34:04 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:36:20 ERROR HomeController:47 - Home id could not be found or was invalid
+2021-10-20 12:36:23 ERROR HomeController:47 - Home id could not be found or was invalid
+2021-10-20 12:36:27 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:36:32 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:36:35 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:40:07 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:40:50 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:45:54 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:46:48 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:47:13 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:47:25 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:47:31 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:47:35 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 12:47:46 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:50:44 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:50:58 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:54:07 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:59:15 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 12:59:24 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:00:46 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:02:35 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:14:37 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:15:30 ERROR HomeController:47 - Home id could not be found or was invalid
+2021-10-20 13:16:37 ERROR HomeController:47 - Home id could not be found or was invalid
+2021-10-20 13:16:47 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:16:52 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:17:53 ERROR HomeController:47 - Home id could not be found or was invalid
+2021-10-20 13:17:53 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:17:59 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:18:05 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:19:23 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:19:27 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:33:21 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:33:25 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:33:37 INFO  HomeController:111 - Adding home with name: furn
+2021-10-20 13:33:38 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:35:20 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:36:04 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:37:34 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:37:38 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home2
+2021-10-20 13:37:49 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home2
+2021-10-20 13:38:02 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home2
+2021-10-20 13:39:04 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:39:07 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:39:26 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:47:46 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:47:51 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:48:11 ERROR HomeDaoImpl:38 - org.postgresql.util.PSQLException: ERROR: column "furn_description" of relation "furniture" does not exist
+  Position: 57
+2021-10-20 13:48:12 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:48:52 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 13:48:56 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 13:49:07 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home1
+2021-10-20 14:03:12 INFO  HomeController:28 - Retrieving all homes
+2021-10-20 14:03:20 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home2
+2021-10-20 14:03:36 WARN  HomeController:67 - Attempted to add furniture(beeg) to home(2) but there wasn't enough space.
+2021-10-20 14:03:37 INFO  HomeController:56 - Retrieving selected home with furniture: (home)home2
+2021-10-21 21:11:50 ERROR UserDaoImpl:105 - org.postgresql.util.PSQLException: FATAL: database "null" does not exist
+2021-10-21 21:11:50 WARN  ReimbursementController:46 - received invalid username or password, redirecting back to login
+2021-10-21 21:12:00 ERROR UserDaoImpl:105 - org.postgresql.util.PSQLException: FATAL: database "null" does not exist
+2021-10-21 21:12:00 WARN  ReimbursementController:46 - received invalid username or password, redirecting back to login
+2021-10-21 21:14:21 ERROR UserDaoImpl:105 - org.postgresql.util.PSQLException: FATAL: database "null" does not exist
+2021-10-21 21:14:21 WARN  ReimbursementController:46 - received invalid username or password, redirecting back to login
+2021-10-21 21:14:43 ERROR UserDaoImpl:105 - org.postgresql.util.PSQLException: FATAL: database "null" does not exist
+2021-10-21 21:14:43 WARN  ReimbursementController:46 - received invalid username or password, redirecting back to login
+2021-10-21 21:16:26 ERROR UserDaoImpl:105 - org.postgresql.util.PSQLException: FATAL: database "null" does not exist
+2021-10-21 21:16:26 WARN  ReimbursementController:46 - received invalid username or password, redirecting back to login
+2021-10-21 21:17:21 INFO  ReimbursementController:41 - user admin1 logged in
+2021-10-21 21:17:22 INFO  ReimbursementController:31 - Retrieving Reimbursements
+2021-10-21 21:17:36 INFO  ReimbursementController:56 - Updating reimbursement resolved by: admin1
+2021-10-21 21:17:39 INFO  ReimbursementController:56 - Updating reimbursement resolved by: admin1
