@@ -1,5 +1,5 @@
 # Expense Reimbursement System (ERS)
-A reimbursement system created for a faux company. Employees can log in, view their reimbursement requests, and submit new requests. Finance managers can log in, view reimbursement requests from ALL employees, and accept or deny them. Information on user accounts and reimbursements is stored in a GCP Postgres database and the system's server is deployed using Javalin. 
+A reimbursement system created for a faux company. Employees can log in, view their reimbursement requests, and submit new requests. Finance managers can log in, view reimbursement requests from ALL employees, and accept or deny them. Information on user accounts and reimbursements is stored in a GCP Postgres database and the system's server is deployed using Javalin. My ERS is themed after Monster Hunter World for some additional flavor.
 
 # Technologies Used
 * Java
@@ -28,3 +28,9 @@ Environment Variables:
 * TRAINING_DB_HOST      | Database Host IP
 * TRAINING_DB_USERNAME  | Username
 * TRAINING_DB_PASSWORD  | Password
+Port:
+9006
+Existing Accounts (username / pass):
+hunter1 / pass
+hunter2 / pass
+admin1 / pass
