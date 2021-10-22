@@ -267,3 +267,11 @@ java.lang.NumberFormatException: For input string: "search"
 2021-10-21 21:17:22 INFO  ReimbursementController:31 - Retrieving Reimbursements
 2021-10-21 21:17:36 INFO  ReimbursementController:56 - Updating reimbursement resolved by: admin1
 2021-10-21 21:17:39 INFO  ReimbursementController:56 - Updating reimbursement resolved by: admin1
+2021-10-22 10:46:23 ERROR UserDaoImpl:105 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-10-22 10:46:23 WARN  ReimbursementController:46 - received invalid username or password, redirecting back to login
+2021-10-22 10:47:17 ERROR UserDaoImpl:105 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-10-22 10:47:17 WARN  ReimbursementController:46 - received invalid username or password, redirecting back to login
+2021-10-22 10:48:14 ERROR UserDaoImpl:105 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-10-22 10:48:14 WARN  ReimbursementController:46 - received invalid username or password, redirecting back to login
+2021-10-22 10:49:05 INFO  ReimbursementController:41 - user hunter1 logged in
+2021-10-22 10:49:05 INFO  ReimbursementController:31 - Retrieving Reimbursements

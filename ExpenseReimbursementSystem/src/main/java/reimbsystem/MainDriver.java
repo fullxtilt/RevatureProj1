@@ -9,7 +9,6 @@ public class MainDriver {
 
 	public static void main(String[] args) {
 
-		// This line of code is what starts our server on port 9001
 		Javalin app = Javalin.create((config) -> {
 			config.addStaticFiles(staticFiles -> {
 				staticFiles.directory = "/webpage-resources";
