@@ -1,5 +1,5 @@
-# Expense Reimbursement System (ERS) - Java Javalin JDBC
-The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
+# Expense Reimbursement System (ERS)
+A reimbursement system created for a faux company. Employees can log in, view their reimbursement requests, and submit new requests. Finance managers can log in, view reimbursement requests from ALL employees, and accept or deny them. Information on user accounts and reimbursements is stored in a GCP Postgres database and the system's server is deployed using Javalin. 
 
 # Technologies Used
 * Java
@@ -9,3 +9,17 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * JDBC 
 * PostgreSQL 
 * Javalin
+
+# Features
+* List of reimbursements viewable to user will display on login.
+* Finance manager accounts can approve/deny requests.
+* Users can submit reimbursement requests.
+* Finance managers can filter requests by status.
+To-do List:
+* Employee accounts can submit an image file along with their request to verify their expenses. 
+* Hash users' passwords to improve security.
+
+# Getting Started
+```
+git clone https://github.com/fullxtilt/RevatureProj1.git
+```
